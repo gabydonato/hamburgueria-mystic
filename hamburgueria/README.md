@@ -1,6 +1,6 @@
-# 🍔 Burger House
+# 🍔 Mystic Burguer
 
-Starter para o projeto **🍔 Burger House** — Curso de Web Design Híbrido · Vocação (Módulos 13–15).
+Starter para o projeto **🍔 Mystic Burger** — Curso de Web Design Híbrido · Vocação (Módulos 13–15).
 
 ## 📁 Estrutura
 
